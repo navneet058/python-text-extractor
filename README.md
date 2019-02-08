@@ -26,6 +26,15 @@ pip install beautifulsoup4==4.7.1
 
 
 
+How to run the program.
+
+After installing all the pacakges, run the below command
+
+<h1> python python-text-extractor.py </h1> 
+
+
+
+
 
 If you find this resource is useful to you,so don't forgot it to share with other one or If you have any suggestion regarding this , please drop(ping) me at my email address: navneet058@gmail.com
 
